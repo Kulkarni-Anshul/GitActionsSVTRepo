@@ -1,0 +1,18 @@
+name: HCL OneTest Server
+
+on: workflow_dispatch
+
+jobs:
+    OTS-Action:
+        runs-on: self-hosted
+        name: HCL OneTest Server
+        steps:
+         - name: Execute Test
+           uses: HCL-TECH-SOFTWARE/onetest-server-action@main
+           with:
+            serverUrl: https://10.134.59.190.nip.io/
+            offlineToken: eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwYWY4NGQzOC0wMzYwLTQwZDQtODBiNy1mMzI4ZWVlZTAyNzYifQ.eyJpYXQiOjE2NjU5OTIyNzksImp0aSI6IjY2NWE1YmY0LWU1OTItNGY5NS04NmExLWUxNWU3NGUxNDI2OSIsImlzcyI6Imh0dHBzOi8vMTAuMTM0LjU5LjE5MC5uaXAuaW8vYXV0aC9yZWFsbXMvdGVzdHNlcnZlciIsImF1ZCI6Imh0dHBzOi8vMTAuMTM0LjU5LjE5MC5uaXAuaW8vYXV0aC9yZWFsbXMvdGVzdHNlcnZlciIsInN1YiI6IjljYjM0MjIxLTBlOWMtNDJkMC05MTg4LTZjY2Q5MjIyZDEyZiIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJ0ZXN0c2VydmVyIiwic2Vzc2lvbl9zdGF0ZSI6IjVlYWI3MWJiLWJiNzgtNDBiYy05YWY5LTFmY2FhOWI5NDhlOCIsInNjb3BlIjoidGVzdHNlcnZlciBlbWFpbCBvZmZsaW5lX2FjY2VzcyBwcm9maWxlIiwic2lkIjoiNWVhYjcxYmItYmI3OC00MGJjLTlhZjktMWZjYWE5Yjk0OGU4In0.Xd3yhyHw15Nlrf1BuMEq_dvH7DEgPKHth3utsYMg5Zc
+            teamspace: Initial Team Space
+            project: Anshul_SVT
+            branch: Anshul_FT
+            assetId: 1faf5e10-d05a-4783-af5e-10d05a678338
