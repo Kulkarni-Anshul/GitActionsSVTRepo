@@ -10,9 +10,9 @@ jobs:
          - name: Execute Test
            uses: HCL-TECH-SOFTWARE/onetest-server-action@main
            with:
-            serverUrl: https://10.115.156.124.nip.io/
-            offlineToken: eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI3YTFkMmYzNy1iMzc4LTQ4OGUtYTkwOC1iMjMwZTYzMjY5YmQifQ.eyJpYXQiOjE2NjYwMjE0NDAsImp0aSI6IjBmMWU0MDQwLTE2M2MtNGRjOC05NTY5LWVmMGY1YWNiNTIzYyIsImlzcyI6Imh0dHBzOi8vMTAuMTE1LjE1Ni4xMjQubmlwLmlvL2F1dGgvcmVhbG1zL3Rlc3RzZXJ2ZXIiLCJhdWQiOiJodHRwczovLzEwLjExNS4xNTYuMTI0Lm5pcC5pby9hdXRoL3JlYWxtcy90ZXN0c2VydmVyIiwic3ViIjoiMDYwZjM0OWItOGI1Zi00MzllLWJlZjEtYTM2OThlMTE1NTgyIiwidHlwIjoiT2ZmbGluZSIsImF6cCI6InRlc3RzZXJ2ZXIiLCJzZXNzaW9uX3N0YXRlIjoiMGQ3NTFhZTctMzY0My00Mzc2LWE2OWEtOWU4YTFjNDIwYTA5Iiwic2NvcGUiOiJ0ZXN0c2VydmVyIGVtYWlsIG9mZmxpbmVfYWNjZXNzIHByb2ZpbGUiLCJzaWQiOiIwZDc1MWFlNy0zNjQzLTQzNzYtYTY5YS05ZThhMWM0MjBhMDkifQ.uQov3bf9fEdMPZgVq2yhWWpQIHc9ZIyJ9uhYp_JM3m0
+            serverUrl: https://10.134.59.190.nip.io/
+            offlineToken: eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJkMWMyMDFiZC1mOWI4LTQ4OWYtYThmOS1kNmRjNGY4M2NjNzEifQ.eyJpYXQiOjE2NjYwOTc5ODQsImp0aSI6ImZjODg1NDc3LTJkYmYtNDJhMC1hZDcyLWI2YWNlNDg0ZjA0NiIsImlzcyI6Imh0dHBzOi8vMTAuMTM0LjU5LjE5MC5uaXAuaW8vYXV0aC9yZWFsbXMvdGVzdHNlcnZlciIsImF1ZCI6Imh0dHBzOi8vMTAuMTM0LjU5LjE5MC5uaXAuaW8vYXV0aC9yZWFsbXMvdGVzdHNlcnZlciIsInN1YiI6IjhmYjU2ZmI5LTFlYjctNDQ2Yi1iN2NlLWM4ZDA2NTMzNDcxZSIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJ0ZXN0c2VydmVyIiwic2Vzc2lvbl9zdGF0ZSI6IjgxZGMxMjU1LTkyNDItNDNhNy04MjJjLWM0NjcyZTNkZTMyMCIsInNjb3BlIjoidGVzdHNlcnZlciBlbWFpbCBvZmZsaW5lX2FjY2VzcyBwcm9maWxlIiwic2lkIjoiODFkYzEyNTUtOTI0Mi00M2E3LTgyMmMtYzQ2NzJlM2RlMzIwIn0.sax-3TElbpid2UolW0WRtvA0sZKd0pVluDuhEm9UR4s
             teamspace: Initial Team Space
             project: Anshul_SVT
-            branch: Anshul_Test
-            assetId: 31083d2e-0260-4688-883d-2e0260168803
+            branch: master
+            assetId: 71213726-2a9d-45d4-a137-262a9da5d436
