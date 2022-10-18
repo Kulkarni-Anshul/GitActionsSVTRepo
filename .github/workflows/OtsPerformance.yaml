@@ -10,6 +10,6 @@ jobs:
          - name: HCL OneTest Performance
            uses: HCL-TECH-SOFTWARE/onetest-perf-action@main
            with:
-            workspace: <C:\Data\SampleWorkspace>
-            project: <MyProject>
-            suite: <MySuite>
+            workspace: C:\Users\anshul.kulkarni\HCL\hclonetest\workspace\AnsPerfProject
+            project: AnsPerfProject
+            suite: HttpTest1.testsuite
