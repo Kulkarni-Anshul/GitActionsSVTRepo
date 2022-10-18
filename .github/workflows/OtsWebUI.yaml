@@ -13,4 +13,4 @@ jobs:
            with:
             workspace: C:\Users\anshul.kulkarni\HCL\hclonetest\workspace
             project: UIProject
-            suite: /UIProject/Tests/WebUiTest1.testsuite
+            suite: UIProject/Tests/WebUiTest1.testsuite
