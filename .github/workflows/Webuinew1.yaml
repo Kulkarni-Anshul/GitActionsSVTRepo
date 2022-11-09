@@ -11,5 +11,5 @@ jobs:
            uses: HCL-TECH-SOFTWARE/onetest-web-action@main
            with:
             workspace: C:\Users\anshul.kulkarni\HCL\hclonetest\workspace
-            project: UI_Proj
-            suite: HotUI_WebUITest1.testsuite
+            project: AnsUI_Proj
+            suite: HotUI_Ans_WebUI_Test1.testsuite
