@@ -10,5 +10,5 @@ jobs:
          - name: Execute Test
            uses: HCL-TECH-SOFTWARE/onetest-ui-action@main
            with:
-            projectDirectory: C:\Users\anshul.kulkarni\HCL\hclonetest\workspace\UI_Proj
-            scriptName: HotUI_Http_Test1.testsuite
+            projectDirectory: location	C:\Users\anshul.kulkarni\HCL\hclonetest\workspace\AnsUI_Proj
+            scriptName: HotUI_Ans_HttpTest1.testsuite
