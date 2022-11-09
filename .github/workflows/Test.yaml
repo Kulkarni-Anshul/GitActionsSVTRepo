@@ -11,4 +11,4 @@ jobs:
            uses: HCL-TECH-SOFTWARE/onetest-ui-action@main
            with:
             projectDirectory: C:\Users\anshul.kulkarni\HCL\hclonetest\workspace\UI_Proj
-            scriptName: Test.HotUI_Http_Test1.testsuite
+            scriptName: Tests.HotUI_Http_Test1.testsuite
