@@ -1,14 +1,15 @@
-name: HCL OneTest UI
+name: HCL OneTest WEBUI
 
 on: workflow_dispatch
 
 jobs:
-    UI-Action:
+    WebUI-Action:
+        name: HCL OneTest WEBUI
         runs-on: self-hosted
-        name: HCL OneTest UI
         steps:
-         - name: Execute Test
-           uses: HCL-TECH-SOFTWARE/onetest-ui-action@main
+         - name: HCL OneTest WEBUI
+           uses: HCL-TECH-SOFTWARE/onetest-web-action@main
            with:
-            projectDirectory: C:\Users\anshul.kulkarni\git\FT_SVT_TestAsset\UI_ProjectAns
-            scriptName: WebUI_Test1.testsuite
+            workspace: C:\Users\anshul.kulkarni\HCL\hclonetest\workspace
+            project: UI_Proj
+            suite: HotUI_WebUITest1.testsuite
