@@ -10,6 +10,6 @@ jobs:
          - name: HCL OneTest WEBUI
            uses: HCL-TECH-SOFTWARE/onetest-web-action@main
            with:
-            workspace: <C:\Data\SampleWorkspace>
-            project: <MyProject>
-            suite: <MySuite>
+            workspace: C:\Users\anshul.kulkarni\HCL\hclonetest\workspace
+            project: Proj1
+            suite: WebUi1.testsuite
