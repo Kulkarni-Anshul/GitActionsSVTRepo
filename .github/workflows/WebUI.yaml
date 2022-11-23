@@ -12,4 +12,4 @@ jobs:
            with:
             workspace: C:\Users\anshul.kulkarni\HCL\hclonetest\workspace
             project: Proj1
-            suite: WebUi1.testsuite
+            suite: AnsWebUITest1.testsuite
