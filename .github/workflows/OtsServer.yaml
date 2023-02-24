@@ -10,7 +10,7 @@ jobs:
          - name: Execute Test
            uses: HCL-TECH-SOFTWARE/onetest-server-action@main
            with:
-            serverUrl: https://10.134.59.190.nip.io/
+            serverUrl: https://10.134.59.190.nip.io
             offlineToken: eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI4N2I0NzA3YS02NTFjLTRiOGUtOWY3Ni1lZDM2NGE2NjA4MGEifQ.eyJpYXQiOjE2NzcwNTUzNjQsImp0aSI6IjNhZTU0NTI2LWZlZmItNGJjYi04ZWE0LTk4N2E1MzA5ZTQxYSIsImlzcyI6Imh0dHBzOi8vMTAuMTM0LjU5LjE5MC5uaXAuaW8vYXV0aC9yZWFsbXMvdGVzdHNlcnZlciIsImF1ZCI6Imh0dHBzOi8vMTAuMTM0LjU5LjE5MC5uaXAuaW8vYXV0aC9yZWFsbXMvdGVzdHNlcnZlciIsInN1YiI6IjYyZDZiYzBjLTQ3NWEtNDFhMy04MmE4LWVhNTIyZTRkY2FhMyIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJ0ZXN0c2VydmVyIiwic2Vzc2lvbl9zdGF0ZSI6IjRkZmNjOWM0LTgwY2ItNDdjNi05NGIyLTQ4ZmMwZTVkYWIzNiIsInNjb3BlIjoidGVzdHNlcnZlciBlbWFpbCBvZmZsaW5lX2FjY2VzcyBwcm9maWxlIiwic2lkIjoiNGRmY2M5YzQtODBjYi00N2M2LTk0YjItNDhmYzBlNWRhYjM2In0.oLD4EVzdZU8n7NswDJuydD7Fe9LYsE9LF4V8a5SqedA
             teamspace: C:\Users\anshul.kulkarni\git\FT_SVT_TestAsset\AnsWebUIProject
             project: Anshul_SVT
