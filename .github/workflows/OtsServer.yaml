@@ -12,7 +12,7 @@ jobs:
            with:
             serverUrl: https://10.134.59.190.nip.io
             offlineToken: eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIyNGE0OTE4Ny1kODlmLTQ0NjEtOTAxMS1kNzlkZDNjNzZiZTcifQ.eyJpYXQiOjE2NzcyMzUxMjIsImp0aSI6IjMyNTgxZDY4LThkYTgtNGIxYi1iNWM0LTZmNWQ2MTBjNjAwZSIsImlzcyI6Imh0dHBzOi8vMTAuMTM0LjU5LjE5MC5uaXAuaW8vYXV0aC9yZWFsbXMvdGVzdHNlcnZlciIsImF1ZCI6Imh0dHBzOi8vMTAuMTM0LjU5LjE5MC5uaXAuaW8vYXV0aC9yZWFsbXMvdGVzdHNlcnZlciIsInN1YiI6IjVkMTEyNzc0LWU4YjQtNGIwYS1hMGMzLTg0MTVkOTI2NWRiMiIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJ0ZXN0c2VydmVyIiwic2Vzc2lvbl9zdGF0ZSI6ImQwYWYxZGQ3LWMyZjktNGEyYS04ZTJlLTA2NWIxYWM4MTYyZiIsInNjb3BlIjoidGVzdHNlcnZlciBlbWFpbCBvZmZsaW5lX2FjY2VzcyBwcm9maWxlIiwic2lkIjoiZDBhZjFkZDctYzJmOS00YTJhLThlMmUtMDY1YjFhYzgxNjJmIn0.DG_TVeFENU66DmgYwFhMbzX6evq7V-lu-Ivs_aqSp9M
-            teamspace: C:\Users\anshul.kulkarni\git\FT_SVT_TestAsset\AnsWebUIProject
+            teamspace: Initial Team Space
             project: Anshul_SVT
             branch: master
             assetId: 72ca4380-59a0-413f-8a43-8059a0d13f1b
