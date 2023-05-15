@@ -10,7 +10,7 @@ jobs:
          - name: Execute Test
            uses: IBM/devopsauto-testserver-actions@main
            with:
-            serverUrl: https://10.134.59.236.nip.io/
+            serverUrl: https://10.134.59.236.nip.io
             offlineToken: eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIyNWYwZmZlYy03YjY0LTRkNDEtYmI1NC1iOWJkYzFjNmZiZWEifQ.eyJpYXQiOjE2ODQxNTAwMDUsImp0aSI6ImYwNjlmOTllLWUzMWYtNDczYS1iMWEzLTU1YjE1NGI1YWM3OCIsImlzcyI6Imh0dHBzOi8vMTAuMTM0LjU5LjIzNi5uaXAuaW8vYXV0aC9yZWFsbXMvdGVzdHNlcnZlciIsImF1ZCI6Imh0dHBzOi8vMTAuMTM0LjU5LjIzNi5uaXAuaW8vYXV0aC9yZWFsbXMvdGVzdHNlcnZlciIsInN1YiI6IjBjOGZmODdkLWY0ZWQtNGFjZC05ODBkLTY5NjI3MmQzNzFhZSIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJ0ZXN0c2VydmVyIiwic2Vzc2lvbl9zdGF0ZSI6Ijc4ODA4MWUxLTZhMjQtNGQ2MS04YmIzLWViYWNiMjUwNGVjZiIsInNjb3BlIjoidGVzdHNlcnZlciBlbWFpbCBvZmZsaW5lX2FjY2VzcyBwcm9maWxlIiwic2lkIjoiNzg4MDgxZTEtNmEyNC00ZDYxLThiYjMtZWJhY2IyNTA0ZWNmIn0.OCuUeUJ5POe98QzzXs88lzlrNz32H8C32uNXMlfYtus
             teamspace: Initial Team Space
             project: Anshul_SVT
