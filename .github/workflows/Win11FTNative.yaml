@@ -1,0 +1,14 @@
+name: Rational Functional Tester
+
+on: workflow_dispatch
+
+jobs:
+    UI-Action:
+        runs-on: self-hosted
+        name: Rational Functional Tester
+        steps:
+         - name: Execute Test
+           uses: IBM/devopsauto-functest-actions@main
+           with:
+            projectDirectory:  <C:\Data\MyProject>
+            scriptName: <MyScript>
