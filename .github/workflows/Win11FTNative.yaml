@@ -10,5 +10,5 @@ jobs:
          - name: Execute Test
            uses: IBM/devopsauto-functest-actions@main
            with:
-            projectDirectory:  <C:\Data\MyProject>
-            scriptName: <MyScript>
+            projectDirectory: C:\Users\anshul.kulkarni\IBM\rationalsdp\workspace\GithubActions1053ProjFT
+            scriptName: JavaB.java
