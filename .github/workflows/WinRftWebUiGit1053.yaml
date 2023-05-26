@@ -12,4 +12,4 @@ jobs:
            with:
             workspace: C:\Users\anshul.kulkarni\IBM\rationalsdp\workspace\AnsGithub1053
             project: AnsGithub1053
-            suite: Tests\AnsGithub1053
+            suite: Tests\Git_WebUI1
