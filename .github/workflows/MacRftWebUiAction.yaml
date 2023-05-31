@@ -10,6 +10,6 @@ jobs:
          - name: Rational Functional Tester - UI Test
            uses: IBM/devopsauto-uitest-actions@main
            with:
-            workspace: /Users/vatsalaswamy/IBM/rationalsdp/workspace
-            project: MacUIProj1053
-            suite: Tests/UITestMac1.testsuite
+            workspace: /Users/vatsalaswamy/IBM/AnsWs
+            project: MacVenProj
+            suite: Tests/MacVen_WebUi1.testsuite
