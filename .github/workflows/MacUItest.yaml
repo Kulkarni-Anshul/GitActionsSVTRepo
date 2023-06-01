@@ -9,5 +9,5 @@ jobs:
            uses: IBM/devopsauto-uitest-actions@main
            with:
             workspace: /Users/vatsalaswamy/IBM/AnsWs/MacVenPorj
-            project: MacVenPorj
-            suite: Tests/MacVen_WebUi1.testsuite
+            project: /MacVenPorj
+            suite: /Tests/MacVen_WebUi1.testsuite
