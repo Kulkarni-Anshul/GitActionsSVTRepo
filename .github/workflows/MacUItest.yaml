@@ -1,5 +1,7 @@
 name: Rational Functional Tester - UI Test
+
 on: workflow_dispatch
+
 jobs:
     WebUI-Action:
         name: Rational Functional Tester - UI Test
@@ -8,6 +10,6 @@ jobs:
          - name: Rational Functional Tester - UI Test
            uses: IBM/devopsauto-uitest-actions@main
            with:
-            workspace: /Users/vatsalaswamy/IBM/AnsWs/MacVenPorj
-            project: /MacVenPorj
-            suite: /Tests/MacVen_WebUi1.testsuite
+            workspace: /Users/vatsalaswamy/IBM/AnsWs
+            project: MacVenPorj
+            suite: Tests/MacVen_WebUi1.testsuite
