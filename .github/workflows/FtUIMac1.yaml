@@ -11,5 +11,5 @@ jobs:
            uses: IBM/devopsauto-uitest-actions@main
            with:
             workspace: /Users/vatsalaswamy/IBM/1054MacGit
-            project: /1054GitAction
-            suite: /Tests/WebUIMac1.testsuite
+            project: 1054GitAction
+            suite: Tests/WebUIMac1.testsuite
