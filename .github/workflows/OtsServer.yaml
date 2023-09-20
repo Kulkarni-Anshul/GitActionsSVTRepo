@@ -10,7 +10,7 @@ jobs:
          - name: Execute Test
            uses: HCL-TECH-SOFTWARE/onetest-server-action@main
            with:
-            serverUrl: https://hcl-onetest.35.245.160.233.nip.io
+            serverUrl: https://hcl-onetest.35.245.160.233.nip.io/
             offlineToken: eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJkMTg2MjZiYy1kNTMwLTQxM2QtYTk4My01N2EyOTZkMTEzNGUifQ.eyJpYXQiOjE2OTUyMTY0MjIsImp0aSI6IjMwMzhiZDAwLTJiYTYtNDM1YS04ZDQzLTY5NTAwMzFiMTQ5YSIsImlzcyI6Imh0dHBzOi8vaGNsLW9uZXRlc3QuMzUuMjQ1LjE2MC4yMzMubmlwLmlvL2F1dGgvcmVhbG1zL3Rlc3RzZXJ2ZXIiLCJhdWQiOiJodHRwczovL2hjbC1vbmV0ZXN0LjM1LjI0NS4xNjAuMjMzLm5pcC5pby9hdXRoL3JlYWxtcy90ZXN0c2VydmVyIiwic3ViIjoiNDhkNTk2ZTQtOTc4OS00OTg5LWJjNTUtYzEzY2UyMGE5ODFmIiwidHlwIjoiT2ZmbGluZSIsImF6cCI6InRlc3RzZXJ2ZXIiLCJzZXNzaW9uX3N0YXRlIjoiMzQ3YWVmMjktY2I4YS00MDQ4LWEzNTctZTkxYzdiMzdiNGFiIiwic2NvcGUiOiJlbWFpbCBvZmZsaW5lX2FjY2VzcyBwcm9maWxlIiwic2lkIjoiMzQ3YWVmMjktY2I4YS00MDQ4LWEzNTctZTkxYzdiMzdiNGFiIn0.lD254YzjKnUJ1w9ToWuNdhmefDoTkt7p0PofH-974j4
             teamspace: Initial Team Space
             project: Anshul_SVT
