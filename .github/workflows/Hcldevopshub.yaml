@@ -10,9 +10,9 @@ jobs:
          - name: Execute Test
            uses: HCL-TECH-SOFTWARE/devops-test-hub-action@main
            with:
-            serverUrl: <https://myserver>
-            offlineToken: <xxxxx>
-            teamspace: <MyTeam>
-            project: <MyProject>
-            branch: <main>
-            assetId: <yyyyyyy>
+            serverUrl: https://10.134.59.190.nip.io/
+            offlineToken: eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1M2I5ODg3Yi0xOGNlLTRmNTAtODQzZC02MWU4MWJjYzA0N2QifQ.eyJpYXQiOjE3MTI2NDIyODksImp0aSI6IjU0ZjYwZDZkLWYzYmEtNDdiMy05MWVlLTMyMTlhYjFlNmIwNSIsImlzcyI6Imh0dHBzOi8vMTAuMTM0LjU5LjE5MC5uaXAuaW8vYXV0aC9yZWFsbXMvdGVzdHNlcnZlciIsImF1ZCI6Imh0dHBzOi8vMTAuMTM0LjU5LjE5MC5uaXAuaW8vYXV0aC9yZWFsbXMvdGVzdHNlcnZlciIsInN1YiI6IjcwMDllMzg3LTljODQtNGQ1Yi1iN2E4LTVmYWY2OTBlMDEzZSIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJ0ZXN0c2VydmVyIiwic2Vzc2lvbl9zdGF0ZSI6IjAyNzUwNDY2LTM1ODEtNDBhZC05YTE2LWU3MzVlZDE1YjI5NyIsInNjb3BlIjoiZW1haWwgcHJvZmlsZSBvZmZsaW5lX2FjY2VzcyIsInNpZCI6IjAyNzUwNDY2LTM1ODEtNDBhZC05YTE2LWU3MzVlZDE1YjI5NyJ9.lu4UKFvL8IVhtC5-keG7BxaV2_dixqCJysBuOlfow6w
+            teamspace: Initial Team Space
+            project: Anshul_SVT
+            branch: master
+            assetId: fab239c9-70e0-44cd-b239-c970e054cd9e
