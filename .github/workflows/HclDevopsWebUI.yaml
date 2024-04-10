@@ -12,4 +12,4 @@ jobs:
            with:
             workspace: C:\Users\anshul.kulkarni\HCL\devopstest\workspace
             project: HclDevOpsUI1102
-            suite: DevOps Test Ui1.testsuite
+            suite: Tests/DevOps Test Ui1.testsuite
