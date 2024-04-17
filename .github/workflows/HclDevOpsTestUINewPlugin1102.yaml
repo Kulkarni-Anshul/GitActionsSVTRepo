@@ -1,3 +1,7 @@
+name: HCL DevOps Test UI
+
+on: workflow_dispatch
+
 jobs:
     UI-Action:
         runs-on: self-hosted
