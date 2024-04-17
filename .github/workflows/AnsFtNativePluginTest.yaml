@@ -1,1 +1,14 @@
+name: HCL DevOps Test UI
 
+on: workflow_dispatch
+
+jobs:
+    UI-Action:
+        runs-on: self-hosted
+        name: HCL DevOps Test UI
+        steps:
+         - name: Execute Test
+           uses: LekyaS/FTGithubActionTest@main
+           with:
+            projectDirectory: C:\Users\anshul.kulkarni\HCL\devopstest\workspace\FtProj1102
+            scriptName: ClassicsJavaA.java
