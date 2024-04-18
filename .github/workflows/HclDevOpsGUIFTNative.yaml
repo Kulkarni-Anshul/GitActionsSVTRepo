@@ -11,4 +11,4 @@ jobs:
            uses: HCL-TECH-SOFTWARE/devops-test-ui-action@main
            with:
             projectDirectory: C:\Users\anshul.kulkarni\HCL\devopstest\workspace\FtProj1102
-            scriptName: ClassicsJavaA.java
+            scriptName: ClassicsJavaA
