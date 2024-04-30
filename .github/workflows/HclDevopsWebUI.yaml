@@ -11,5 +11,5 @@ jobs:
            uses: HCL-TECH-SOFTWARE/devops-test-web-action@main
            with:
             workspace: C:\Users\anshul.kulkarni\HCL\devopstest\workspace
-            project: HclDevOpsUI1102
-            suite: Tests/DevOps Test Ui1.testsuite
+            project: UIProj1102
+            suite: Tests/UITest1.testsuite
