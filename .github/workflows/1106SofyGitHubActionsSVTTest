@@ -10,9 +10,9 @@ jobs:
          - name: Execute Test
            uses: HCL-TECH-SOFTWARE/devops-test-hub-action@main
            with:
-            serverUrl: <https://myserver>
-            offlineToken: <xxxxx>
-            teamspace: <MyTeam>
-            project: <MyProject>
-            branch: <main>
-            assetId: <yyyyyyy>
+            serverUrl: https://testhub.sbx0185.play.hclsofy.dev/test/
+            offlineToken: eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwMjlhZWRjNi01MGQ4LTQzOTYtYjRhYi0wODdmZGYzNjhiYTIifQ.eyJpYXQiOjE3NTg3OTQ0ODQsImp0aSI6ImFkN2E1MmEyLWQ3ZTQtNGM3Mi1iM2EyLTk2ODgxMDU0ZmI5NSIsImlzcyI6Imh0dHBzOi8vdGVzdGh1Yi5zYngwMTg1LnBsYXkuaGNsc29meS5kZXYvYXV0aC9yZWFsbXMvcGxhdGZvcm0iLCJhdWQiOiJodHRwczovL3Rlc3RodWIuc2J4MDE4NS5wbGF5LmhjbHNvZnkuZGV2L2F1dGgvcmVhbG1zL3BsYXRmb3JtIiwic3ViIjoiNWZlNzk3MDktYWM0My00NGVkLTkzOTYtOThmMTE2NjgwODg2IiwidHlwIjoiT2ZmbGluZSIsImF6cCI6InRlc3RzZXJ2ZXIiLCJzaWQiOiJjMTQzNzMxNy04NTZiLTQxYzYtYjBhZC1mYTM1NTE0ZDBiOTAiLCJzY29wZSI6InJvbGVzIGJhc2ljIGVtYWlsIHNlcnZpY2VfYWNjb3VudCBhY3IgcHJvZmlsZSB3ZWItb3JpZ2lucyBvZmZsaW5lX2FjY2VzcyJ9.Vm92RhDjvkbghIUirB8CRKqBv6Tnu_j157OVkILHXovCmbYbPhQNu-8cpT8tyCe6MGlvrLMnne12PWq64QNUQw
+            teamspace: Initial Team Space
+            project: Anshul_SVT
+            branch: master
+            assetId: fa15db01e06e6cbc35efb2d6b71673e3db1dcc640fa990e386535ac321200467
