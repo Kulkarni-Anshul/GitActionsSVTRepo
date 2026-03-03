@@ -14,5 +14,5 @@ jobs:
             offlineToken: eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJiZTE0YTI3Yy00ZWExLTQ3ODgtYmIzMi1iOTQzNTE5MzNmMjAifQ.eyJpYXQiOjE3NzI1NTI3MjcsImp0aSI6ImViMmYzNDFhLTA2ZTMtZDNmYy00NDA5LTBhNDRlZmI2ZjNiNSIsImlzcyI6Imh0dHBzOi8vMTAuMTE1LjMzLjcyLm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsImF1ZCI6Imh0dHBzOi8vMTAuMTE1LjMzLjcyLm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsInN1YiI6IjIwMTdmNThlLTFhY2QtNDU1Zi1iM2RlLTZjZmE4OTJkMTdmNiIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJ0ZXN0c2VydmVyIiwic2lkIjoianJnQ2w1c2cwOTF1YkRMUFNmdXlkUXF0Iiwic2NvcGUiOiJhY3IgYmFzaWMgZW1haWwgc2VydmljZV9hY2NvdW50IG9mZmxpbmVfYWNjZXNzIHByb2ZpbGUgd2ViLW9yaWdpbnMgcm9sZXMifQ.KjFXNULk3x4Q1FlRTo7L7csvO2YeZlQbgCCyy6ueMHxPSfHNFG0UtPcGU7hqSDKmdO8F7aSPCahoxbyXp2G3WA
             teamspace: Initial Team Space
             project: Anshul_SVT
-            branch: master
-            assetId: 62b9811f761990fa67d5180821a6b43ae14de9f79f26c0a11657f91935cc4da8
+            branch: AnsFT
+            assetId: 0b833418d121365b4ca440a0e26a1ba413d335f3fe25181bf2521b703b8ac460
