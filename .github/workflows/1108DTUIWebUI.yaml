@@ -12,4 +12,4 @@ jobs:
            with:
             workspace: C:\Users\anshul.kulkarni\HCL\devopstest\workspace
             project: UIProj1108
-            suite: AFT1.xml
+            suite: Compound Tests\Comp1.testsuite
