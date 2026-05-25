@@ -10,5 +10,5 @@ jobs:
          - name: Execute Test
            uses: HCL-TECH-SOFTWARE/devops-test-ui-action@main
            with:
-            projectDirectory: C:\Users\anshul.kulkarni\HCL\devopstest\workspace\FunctionalTesterDemo
-            scriptName: ClassicsJava_FindBasedScript
+            projectDirectory: C:\Users\anshul.kulkarni\IBM\devopstest\workspace\DTUI1109Proj
+            scriptName: JQCh.testsuite
