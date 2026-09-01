@@ -13,4 +13,4 @@ jobs:
            with:
             workspace: C:\Users\anshul.kulkarni\HCL\devopstest\workspace
             project: DTUI1200
-            suite: Compound Tests\Comp1
+            suite: AFTJQEdgeWebUI1200.xml
