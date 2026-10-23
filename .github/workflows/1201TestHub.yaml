@@ -16,5 +16,3 @@ jobs:
             project: Anshul_SVT
             branch: FT-PT-APIAutomation
             assetId: c3433823b9fac765e2d434c8dc1cde9194bd0a767a61ca3449ac63e5d76f3216
-            labels: fromGitHubActions
-            resultProperties: buildID=123456asdfgh;executorName=SVTTester;
