@@ -1,0 +1,18 @@
+name: HCL DevOps Test Hub
+
+on: workflow_dispatch
+
+jobs:
+    TestHub-Action:
+        runs-on: self-hosted
+        name: HCL DevOps Test Hub
+        steps:
+         - name: Execute Test
+           uses: HCL-TECH-SOFTWARE/devops-test-hub-action@main
+           with:
+            serverUrl: https://10.190.97.68.nip.io/test/
+            offlineToken: eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwNzk1Y2ZhNi1jOTRhLTRmNjUtOTNkZi00ZThkYWVlZmE0ZGIifQ.eyJpYXQiOjE3OTI3MzQ3MzksImp0aSI6ImU2ZmRhNDRmLTljNzktMWMyNi01NGRiLTU0N2U2ODY3MDAxZiIsImlzcyI6Imh0dHBzOi8vMTAuMTkwLjk3LjY4Lm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsImF1ZCI6Imh0dHBzOi8vMTAuMTkwLjk3LjY4Lm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsInN1YiI6Ijk3MzVhZWM5LWRhOGItNDM1Zi1iY2Q1LTM2NzMyNmVjYTZlNSIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJ0ZXN0c2VydmVyIiwic2lkIjoiNm93dVRUTWVWMkFvdDdFUzM1b3o3WmJEIiwic2NvcGUiOiJzZXJ2aWNlX2FjY291bnQgcHJvZmlsZSBiYXNpYyBvZmZsaW5lX2FjY2VzcyBhY3IgZW1haWwgd2ViLW9yaWdpbnMgcm9sZXMiLCJhdWRfeCI6ImFjY291bnQiLCJwcm92IjoiZGVmYXVsdCJ9.LhmeA75QXgvPeq-Vgm9Rb0I4LylvkX8xfVEbMJ9mZKWLlyIuckoJc5FQDq99bsGFjaLH-YVQ0VO8u5Q830tYIg
+            teamspace: Initial Team Space
+            project: Anshul_SVT
+            branch: FT-PT-APIAutomation
+            assetId: c3433823b9fac765e2d434c8dc1cde9194bd0a767a61ca3449ac63e5d76f3216
