@@ -11,8 +11,8 @@ jobs:
            uses: HCL-TECH-SOFTWARE/devops-test-hub-action@main
            with:
             serverUrl: https://10.190.97.68.nip.io/test/
-            offlineToken: eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwNzk1Y2ZhNi1jOTRhLTRmNjUtOTNkZi00ZThkYWVlZmE0ZGIifQ.eyJpYXQiOjE3OTI3MzQ3MzksImp0aSI6ImU2ZmRhNDRmLTljNzktMWMyNi01NGRiLTU0N2U2ODY3MDAxZiIsImlzcyI6Imh0dHBzOi8vMTAuMTkwLjk3LjY4Lm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsImF1ZCI6Imh0dHBzOi8vMTAuMTkwLjk3LjY4Lm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsInN1YiI6Ijk3MzVhZWM5LWRhOGItNDM1Zi1iY2Q1LTM2NzMyNmVjYTZlNSIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJ0ZXN0c2VydmVyIiwic2lkIjoiNm93dVRUTWVWMkFvdDdFUzM1b3o3WmJEIiwic2NvcGUiOiJzZXJ2aWNlX2FjY291bnQgcHJvZmlsZSBiYXNpYyBvZmZsaW5lX2FjY2VzcyBhY3IgZW1haWwgd2ViLW9yaWdpbnMgcm9sZXMiLCJhdWRfeCI6ImFjY291bnQiLCJwcm92IjoiZGVmYXVsdCJ9.LhmeA75QXgvPeq-Vgm9Rb0I4LylvkX8xfVEbMJ9mZKWLlyIuckoJc5FQDq99bsGFjaLH-YVQ0VO8u5Q830tYIg
+            offlineToken: eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIxMzU4N2U2My1hZDUzLTRlYmQtODBjNS1jMzY4NTcxOGRlYWMifQ.eyJpYXQiOjE3OTMxMDA2OTYsImp0aSI6IjE4ZGIzNzczLWQ3OWItNDNkZi1kMTFlLWE3Njc4Y2UzZGE1MyIsImlzcyI6Imh0dHBzOi8vMTAuMTkwLjk3LjY4Lm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsImF1ZCI6Imh0dHBzOi8vMTAuMTkwLjk3LjY4Lm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsInN1YiI6IjNjZmYyYTE5LTA4ODctNDA3Ni1hNzQ5LWUzZThjOGFmYWQ4MCIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJ0ZXN0c2VydmVyIiwic2lkIjoiMU1paDk0WFh0VWhKYTdkRWtXZkZFQlpWIiwic2NvcGUiOiJiYXNpYyB3ZWItb3JpZ2lucyBzZXJ2aWNlX2FjY291bnQgYWNyIHByb2ZpbGUgZW1haWwgb2ZmbGluZV9hY2Nlc3Mgcm9sZXMiLCJhdWRfeCI6ImFjY291bnQiLCJwcm92IjoiZGVmYXVsdCJ9.5T9B0P6vaXvOuXvKdhB-XRsjjNAibSVxbx9lokoHVxl-q053OTm2i7qOQ-ChWryInwssEnqLcpBW_NjlE2wvGw
             teamspace: Initial Team Space
             project: Anshul_SVT
-            branch: FT-PT-APIAutomation
-            assetId: c3433823b9fac765e2d434c8dc1cde9194bd0a767a61ca3449ac63e5d76f3216
+            branch: AnsFT
+            assetId: abe146192b7ef5eadc921334dc2e793da334df0a8682fb5b73bd022c5014a8d2
