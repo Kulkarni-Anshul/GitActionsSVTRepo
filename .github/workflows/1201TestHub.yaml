@@ -10,9 +10,9 @@ jobs:
          - name: Execute Test
            uses: HCL-TECH-SOFTWARE/devops-test-hub-action@main
            with:
-            serverUrl: https://10.190.97.68.nip.io/test/
-            offlineToken: eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIxMzU4N2U2My1hZDUzLTRlYmQtODBjNS1jMzY4NTcxOGRlYWMifQ.eyJpYXQiOjE3OTMxMDA2OTYsImp0aSI6IjE4ZGIzNzczLWQ3OWItNDNkZi1kMTFlLWE3Njc4Y2UzZGE1MyIsImlzcyI6Imh0dHBzOi8vMTAuMTkwLjk3LjY4Lm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsImF1ZCI6Imh0dHBzOi8vMTAuMTkwLjk3LjY4Lm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsInN1YiI6IjNjZmYyYTE5LTA4ODctNDA3Ni1hNzQ5LWUzZThjOGFmYWQ4MCIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJ0ZXN0c2VydmVyIiwic2lkIjoiMU1paDk0WFh0VWhKYTdkRWtXZkZFQlpWIiwic2NvcGUiOiJiYXNpYyB3ZWItb3JpZ2lucyBzZXJ2aWNlX2FjY291bnQgYWNyIHByb2ZpbGUgZW1haWwgb2ZmbGluZV9hY2Nlc3Mgcm9sZXMiLCJhdWRfeCI6ImFjY291bnQiLCJwcm92IjoiZGVmYXVsdCJ9.5T9B0P6vaXvOuXvKdhB-XRsjjNAibSVxbx9lokoHVxl-q053OTm2i7qOQ-ChWryInwssEnqLcpBW_NjlE2wvGw
+            serverUrl: https://10.115.33.72.nip.io/test/
+            offlineToken: eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJiZGM5MTZmOS1kODU1LTQ5MGMtYmQ5ZS04NTA3OTNhZDc4ZTQifQ.eyJpYXQiOjE3OTMxMDUzMDcsImp0aSI6ImJmYjk5OWFhLWExZDgtNzQ1NC1jMTg2LTYzY2VlNGYwNDIyNiIsImlzcyI6Imh0dHBzOi8vMTAuMTE1LjMzLjcyLm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsImF1ZCI6Imh0dHBzOi8vMTAuMTE1LjMzLjcyLm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsInN1YiI6ImNiYTAyZTVhLWViN2EtNDlkMy05ZGE4LThkOGM5NzljYWRiYyIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJ0ZXN0c2VydmVyIiwic2lkIjoiUi0yY210cWN3TTlTcGF1MmF2SENncjBaIiwic2NvcGUiOiJ3ZWItb3JpZ2lucyBiYXNpYyByb2xlcyBlbWFpbCBwcm9maWxlIG9mZmxpbmVfYWNjZXNzIHNlcnZpY2VfYWNjb3VudCBhY3IiLCJhdWRfeCI6ImFjY291bnQiLCJwcm92IjoiZGVmYXVsdCJ9.cHcZMDuUejzcZEC4CN8-1zvsR8F3JWQzjtEhrxFKN9LvhP60vggaOtstS_DvbLjV8IjPGCzwrWKYQ45ccd_SIg
             teamspace: Initial Team Space
             project: Anshul_SVT
             branch: AnsFT
-            assetId: abe146192b7ef5eadc921334dc2e793da334df0a8682fb5b73bd022c5014a8d2
+            assetId: 41208b952bb643c0f7fb3a93e0bb5a2c76af62ae203ed76660ffc3d1a9e7aa6e
