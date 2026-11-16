@@ -16,3 +16,4 @@ jobs:
             project: Anshul_SVT
             branch: AnsFT
             assetId: abe146192b7ef5eadc921334dc2e793da334df0a8682fb5b73bd022c5014a8d2
+            resultProperties: buildID=DevOps Test Hub 12.0.1 12.0.100 202611120112-0e3d35487b ;executorName=SVT Tester
