@@ -16,4 +16,4 @@ jobs:
             project: Anshul_SVT
             branch: master
             assetId: 3481382a87102d19cf492bd13b9c8ee83106187dc9e9ea97694a3ef0591b671a
-            resultProperties: buildID=DevOps Test Hub 12.0.1 12.0.100 202611120112-0e3d35487b;
+            resultProperties: buildID=123456;
