@@ -14,6 +14,5 @@ jobs:
             offlineToken: eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIzMmY5MDNhMi0zMzE3LTQ1NGYtODA4MC1hYWQ1MzY4YTdlYzIifQ.eyJpYXQiOjE3OTQ4MDUyNTIsImp0aSI6Ijk1NTY2OGQwLWYwODAtNzUwMS04ZjIzLTExMDVkNjE3N2E0MiIsImlzcyI6Imh0dHBzOi8vMTAuMTkwLjk3LjY4Lm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsImF1ZCI6Imh0dHBzOi8vMTAuMTkwLjk3LjY4Lm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsInN1YiI6ImFjOTIxMmY5LTNiZDMtNGYxNy04OWQ2LTNkZDIxMTJmYWRjYiIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJ0ZXN0c2VydmVyIiwic2lkIjoiRTM5U1RpRHpTMk9hNmt6dWpGQ1p4TEcyIiwic2NvcGUiOiJlbWFpbCBiYXNpYyBvZmZsaW5lX2FjY2VzcyBhY3Igcm9sZXMgd2ViLW9yaWdpbnMgc2VydmljZV9hY2NvdW50IHByb2ZpbGUiLCJhdWRfeCI6ImFjY291bnQiLCJwcm92IjoiZGVmYXVsdCJ9.8nSDXJAZwW3DMHjaSRavdTUfHSRqhaxwjRG1Wp6Km0oeXRLOdKLGm3cZT09fkMaUoQIqqFXnW-YX5YCfLEKKFA
             teamspace: Initial Team Space
             project: Anshul_SVT
-            branch: master
-            assetId: 3481382a87102d19cf492bd13b9c8ee83106187dc9e9ea97694a3ef0591b671a
-            resultProperties: build=123456 ;
+            branch: FT-PT-APIAutomation
+            assetId: e145a2ee45c77dca465bb042cc4e26d5a5324f9756ae0f88e3918ee4c1766596
