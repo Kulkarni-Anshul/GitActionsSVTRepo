@@ -15,6 +15,6 @@ jobs:
             teamspace: Initial Team Space
             project: Anshul_SVT
             branch: FT-PT-APIAutomation
-            assetId: e145a2ee45c77dca465bb042cc4e26d5a5324f9756ae0f88e3918ee4c1766596
+            assetId: 340105ba7efbab6db4bf7cc0d2474db7e4f3993f004c88d9c7b669f5b4c10192
             labels: label1
             resultProperties: buildID=123456
