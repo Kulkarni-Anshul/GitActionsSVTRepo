@@ -15,6 +15,6 @@ jobs:
             teamspace: Initial Team Space
             project: Anshul_SVT
             branch: AnsFT
-            assetId: 54f6a7db14a8dd083ddc1f0d034d2a68fbf7560d79831a0bd69286c85dfabfcb
+            assetId: 465f55d62fb0e9b3a1733ee757d48362d7909d3ddfce0f1e94ded9fcd66c15d3
             labels: label1
-            resultProperties: buildID=123456;
+            resultProperties: buildID=123456
