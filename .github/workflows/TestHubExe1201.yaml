@@ -1,0 +1,18 @@
+name: HCL DevOps Test Hub
+
+on: workflow_dispatch
+
+jobs:
+    TestHub-Action:
+        runs-on: self-hosted
+        name: HCL DevOps Test Hub
+        steps:
+         - name: Execute Test
+           uses: HCL-TECH-SOFTWARE/devops-test-hub-action@main
+           with:
+            serverUrl: https://10.190.97.68.nip.io/test/
+            offlineToken: 
+            teamspace: Initial Team Space
+            project: Anshul_SVT
+            branch: AnsFT
+            assetId: abe146192b7ef5eadc921334dc2e793da334df0a8682fb5b73bd022c5014a8d2
