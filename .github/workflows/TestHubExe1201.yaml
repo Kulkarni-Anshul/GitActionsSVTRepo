@@ -15,5 +15,5 @@ jobs:
             teamspace: Initial Team Space
             project: Anshul_SVT
             branch: AnsFT
-            assetId: 62b9811f761990fa67d5180821a6b43ae14de9f79f26c0a11657f91935cc4da8
-            resultProperties: buildID=DevOps Test Hub 12.0.1 12.0.100 202611120112-0e3d35487b;executorName=SVT Tester
+            assetId: f1e56fadf70d064c30e3b2bf4d3f7ed918e778466efc7702bc2c1366e6546318
+            resultProperties: buildID=DevOps Test Hub 12.0.1 12.0.100 202611120112-0e3d35487b
