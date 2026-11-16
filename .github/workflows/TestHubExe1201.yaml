@@ -16,3 +16,4 @@ jobs:
             project: Anshul_SVT
             branch: FT-PT-APIAutomation
             assetId: e145a2ee45c77dca465bb042cc4e26d5a5324f9756ae0f88e3918ee4c1766596
+            labels: label1, label2
