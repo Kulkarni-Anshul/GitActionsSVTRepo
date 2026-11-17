@@ -17,3 +17,4 @@ jobs:
             branch: FT-PT-APIAutomation
             assetId: 35f688d9ca7f61839fb66d421ad42f620b4fe4249672b91074a9f6306f6d81ef
             labels: label1
+            resultProperties: buildID=12344 absjhihi;executorName=SVT Tester;
