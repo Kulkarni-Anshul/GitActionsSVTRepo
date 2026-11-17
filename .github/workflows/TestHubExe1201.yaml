@@ -15,6 +15,6 @@ jobs:
             teamspace: Initial Team Space
             project: Anshul_SVT
             branch: FT-PT-APIAutomation
-            assetId: 35f688d9ca7f61839fb66d421ad42f620b4fe4249672b91074a9f6306f6d81ef
+            assetId: 3fe758cc1d9bee94f5fb4237e763b8a6b97a1633e3be29288ed05169937b362f
             labels: label1
             resultProperties: buildID=12344 absjhihi;executorName=SVT Tester;
