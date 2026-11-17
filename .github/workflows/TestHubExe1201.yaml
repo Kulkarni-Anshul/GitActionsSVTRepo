@@ -15,6 +15,6 @@ jobs:
             teamspace: Initial Team Space
             project: Anshul_SVT
             branch: AnsFT
-            assetId: f297fef4f67d459e77ae73c1e235b3c825b1e8c11d4b695ddd20dd523de2b1bc
+            assetId: 43b67c19f4fd3054fae16fae761d24ff39a1e356650d9e1abe0ae05bff629c53
             labels: label1
             resultProperties: buildID=12344 absjhihi;executorName=SVT Tester;
