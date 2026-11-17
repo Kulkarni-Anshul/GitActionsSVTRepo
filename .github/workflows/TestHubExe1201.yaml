@@ -8,7 +8,7 @@ jobs:
         name: HCL DevOps Test Hub
         steps:
          - name: Execute Test
-           uses: HCL-TECH-SOFTWARE/devops-test-hub-action@main
+           uses: HCL-TECH-SOFTWARE/onetest-server-action@main
            with:
             serverUrl: https://10.190.97.68.nip.io/test/
             offlineToken: eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJhZGFjMGZmZS02NDFjLTQ0OGYtYTliMy1kYTNkOTkxMmRhMzYifQ.eyJpYXQiOjE3OTQ4MjQ5MTUsImp0aSI6ImEwYzdiOTc5LTdhMjQtMTkxYS1iMGZkLTgwZjAyODVkNTcxZCIsImlzcyI6Imh0dHBzOi8vMTAuMTkwLjk3LjY4Lm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsImF1ZCI6Imh0dHBzOi8vMTAuMTkwLjk3LjY4Lm5pcC5pby9hdXRoL3JlYWxtcy9wbGF0Zm9ybSIsInN1YiI6IjA0NWUyNmFjLTU3MjUtNDNlNi05MTJlLWVmZDJiOWVkZmI0OSIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJ0ZXN0c2VydmVyIiwic2lkIjoiNDVEUlRod3lMWlpGZk9aNlFRSE5vcW5mIiwic2NvcGUiOiJzZXJ2aWNlX2FjY291bnQgcHJvZmlsZSByb2xlcyB3ZWItb3JpZ2lucyBlbWFpbCBiYXNpYyBvZmZsaW5lX2FjY2VzcyBhY3IiLCJhdWRfeCI6ImFjY291bnQiLCJwcm92IjoiZGVmYXVsdCJ9.eUTGxW7v9wtJ-K5ZDWN7d2Cw--NNZAmd_DXUbgAKL3uNLSfXLoTFeRjBDC0fkB0ZWwOfiClodRkv2LpwZL0fgA
